@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "js-sha256": "^0.9.0",
+    "near-api-js": "^0.34.0"
+  }
 }
